@@ -15,7 +15,7 @@
 			"LoadingPhase": "Default"
 		},
 		{
-			"Name": "ExampleMod",
+			"Name": "CompactMachinery",
 			"Type": "Runtime",
 			"LoadingPhase": "Default"
 		}
